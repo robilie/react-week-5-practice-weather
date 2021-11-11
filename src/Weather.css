@@ -42,7 +42,7 @@
   line-height: 60px;
 }
 
-.Weather img.daily-icon {
+.Weather canvas.daily-icon {
   float: left;
   margin-right: 5px;
 }
