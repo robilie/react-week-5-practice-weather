@@ -32,9 +32,6 @@
   list-style: none;
 }
 
-.Weather .temp-icon {
-  margin-top: 5px;
-}
 .Weather .temperature {
   color: #202124;
   font-size: 48px;
